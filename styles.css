@@ -11,9 +11,9 @@ body {
 
 /* Header styles */
 header {
-    /* background-color: #7a746f; */
+    background-color: #81b0f7; 
     color: white;
-    position: fixed;
+/*     position: fixed; */
     top: 0;
     width: 100%;
     z-index: 1000;
